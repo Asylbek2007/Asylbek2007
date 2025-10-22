@@ -1,6 +1,6 @@
 # Hi there, I'm Asan Asylbek 👋
 
-I'm a 17-year-old Flutter developer passionate about building mobile applications and exploring technology.
+I'm a 18-year-old Flutter developer passionate about building mobile applications and exploring technology.
 
 🌱 Currently Learning:
 - Flutter Development
